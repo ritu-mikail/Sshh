@@ -1,8 +1,8 @@
 {
-  "name": "shankar-bot",
+  "name": "uzair-bot",
   "version": "17.0.0",
-  "description": "Shankar bot project.",
-  "main": "SHANKAR.js",
+  "description": "Mruzairxxxmtx bot project.",
+  "main": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿.js",
   "scripts": {
     "start": "node index",
     "login": "node login",
