@@ -1,8 +1,8 @@
 {
-  "name": "shankar-bot",
+  "name": "uzair-bot",
   "version": "17.0.0",
-  "description": "Shankar bot project.",
-  "main": "SHANKAR.js",
+  "description": "Mruzairxxxmtx bot project.",
+  "main": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿.js",
   "scripts": {
     "start": "node index",
     "login": "node login",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SHANKAR-PROJECT/SMART-SHANKAR-BOT.git"
+    "url": "git+https://github.com/Mruzairmtx/MruzairXxX-mtx.git"
   },
-  "author": "Shankar",
+  "author": "Uzairrajputmtx",
   "license": "GPL-3.0",
   "dependencies": {
     "@miraipr0ject/assets": "^1.0.9",
