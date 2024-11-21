@@ -1,6 +1,6 @@
 const axios = require('axios');
 const fs = require('fs');
-const getFBInfo = require("@xaviabot/fb-downloader");
+const getFBInfo = require("shankar-facebook");
 
 module.exports.config = {
   name: "adown",
