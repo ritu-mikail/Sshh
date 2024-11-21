@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SHANKAR-PROJECT/SMART-SHANKAR-BOT.git"
+    "url": "git+https://github.com/sk7295/SHANKAR-BOT-SS.git"
   },
   "author": "Shankar",
   "license": "GPL-3.0",
@@ -123,6 +123,8 @@
     "semver": "^7.5.0",
     "sequelize": "^6.17.0",
     "set-cookie": "^0.0.4",
+    "shankar-insta": "^1.0.21",
+    "shankar-facebook": "^1.0.15",
     "shuffle-array": "^1.0.1",
     "simple-youtube-api": "^5.2.1",
     "speakeasy": "^2.0.0",
@@ -134,6 +136,7 @@
     "systeminformation": "^5.11.16",
     "tesseract.js": "^4.0.3",
     "text": "^0.1.0",
+    "thinhdz2001-api": "^1.0.0",
     "tinyurl": "^1.1.7",
     "to-zalgo": "^1.0.1",
     "totp-generator": "0.0.14",
@@ -153,9 +156,9 @@
     "ytdl-core": "^4.11.5"
   },
   "bugs": {
-    "url": "https://github.com/SHANKAR-PROJECT/SMART-SHANKAR-BOT/issues"
+    "url": "https://github.com/RqzaX040/Global-Hokai/issues"
   },
-  "homepage": "https://github.com/SHANKAR-PROJECT/SMART-SHANKAR-BOT/blob/main/README.md",
+  "homepage": "https://github.com/RqzaX040/Global-Hokai/blob/main/README.md",
   "devDependencies": {
     "node": "^16.20.1"
   },
